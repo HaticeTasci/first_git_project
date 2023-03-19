@@ -4,6 +4,7 @@ public class AhmetClass {
 
     public static void main(String[] args) {
         System.out.println("Ahmet code");
+        System.out.println("sinav");
 
 
 
